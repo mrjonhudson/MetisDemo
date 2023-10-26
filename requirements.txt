@@ -2,4 +2,3 @@ numpy
 opencv_python
 dlib
 playsound
-pyobjc
